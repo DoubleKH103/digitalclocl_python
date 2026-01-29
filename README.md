@@ -18,10 +18,14 @@ The application shows:
 
 ## Project Structure
 project/
+
 │── main.py
+
 │── requirements.txt
+
 │── README.md
-│── output.jpg # (optional screenshot)
+
+│── output.jpg 
 
 ## Requirements
 - Python 3.x
